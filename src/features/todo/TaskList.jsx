@@ -47,8 +47,8 @@ function TaskList() {
             height={40}
             sx={{
               mb: "8px",
-              bgcolor: "gray.900",
-              borderRadius: "8px",
+              bgcolor: "white",
+              opacity: 0.2,
             }}
           />
         </Box>

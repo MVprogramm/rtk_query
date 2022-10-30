@@ -40,7 +40,6 @@ function Task({ id, text, done }) {
           alignItems: "center",
           height: "40px",
           bgcolor: "white",
-          borderRadius: "8px",
           padding: "4px",
           marginBottom: "8px",
           typography: "body2",

@@ -45,7 +45,6 @@ function Todo() {
             pb: "0px",
             bgcolor: "rgb(112, 76, 182)",
             width: "600px",
-            borderRadius: "8px",
           }}
         >
           <CreateTask />
