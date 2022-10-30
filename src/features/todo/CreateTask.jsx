@@ -44,9 +44,6 @@ function CreateTask() {
         sx={{
           height: "32px",
           bgcolor: "#ffffff",
-          border: 3,
-          borderRadius: "8px",
-          borderColor: "#cccccc",
           p: "0px",
         }}
         value={task.text}
@@ -55,12 +52,10 @@ function CreateTask() {
       <Button
         sx={{
           typography: "body1",
-          borderRadius: "8px",
-          border: 3,
-          borderColor: "#cccccc",
           height: "32px",
           bgcolor: "white",
-          opacity: 0.7,
+          borderRadius: 0,
+          opacity: 0.85,
           ml: "16px",
           pl: 1.1,
           pr: 1.1,
